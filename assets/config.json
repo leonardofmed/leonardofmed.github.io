@@ -1,5 +1,6 @@
 {
   "siteUrl": "https://leonardofmed.github.io",
   "analyticsUrl": "",
-  "enableAdmin": false
+  "enableAdmin": false,
+  "showBooks": false
 }
