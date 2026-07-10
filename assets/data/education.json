@@ -1,0 +1,26 @@
+[
+  {
+    "id": "edu-udesc-0",
+    "institution": "Universidade do Estado de Santa Catarina",
+    "degree_pt": "Bacharelado em Engenharia Ambiental e Sanitária",
+    "degree_en": "Bachelor in Environmental and Sanitary Engineering",
+    "field_pt": "Engenharia Ambiental e Sanitária",
+    "field_en": "Environmental and Sanitary Engineering",
+    "startDate": "2013",
+    "endDate": "2019",
+    "description_pt": "O curso de Bacharelado em Engenharia Ambiental e Sanitária visa formar profissionais capazes de elaborar projetos, instalar e coordenar empreendimentos, capazes de desenvolver ações referentes à administração, gestão e ordenamento ambientais bem como o monitoramento e a mitigação de impactos produzidos pelas diferentes formas de poluição.",
+    "description_en": "The Bachelor's Degree in Environmental and Sanitary Engineering aims to train professionals capable of preparing projects, installing and coordinating projects, capable of developing actions related to environmental administration, management and planning as well as the monitoring and mitigation of impacts produced by different forms of pollution."
+  },
+  {
+    "id": "edu-senai-1",
+    "institution": "SENAI/SC - Serviço Nacional de Aprendizagem Industrial",
+    "degree_pt": "Técnico em Redes de Computadores",
+    "degree_en": "Computer Networks Technician",
+    "field_pt": "Redes de Computadores",
+    "field_en": "Computer Networks",
+    "startDate": "2011",
+    "endDate": "2012",
+    "description_pt": "O Curso Técnico em Redes de Computadores tem por objetivo habilitar profissionais na implantação e administração de redes de computadores on premise e na nuvem conforme normas técnicas, de qualidade, de saúde e segurança no trabalho e de TI verde.",
+    "description_en": "The Technical Course in Computer Networks aims to train professionals in the implementation and administration of computer networks on premise and in the cloud according to technical, quality, occupational health and safety and green IT standards."
+  }
+]

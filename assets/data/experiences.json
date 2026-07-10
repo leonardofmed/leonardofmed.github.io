@@ -1,0 +1,182 @@
+[
+  {
+    "id": "exp-exxonmobil-engenheiro-de-dados-0",
+    "company": "ExxonMobil",
+    "role_pt": "Engenheiro de dados",
+    "role_en": "Data engineer",
+    "startDate": "2023-09",
+    "endDate": null,
+    "current": true,
+    "location_pt": "Houston, Texas, Estados Unidos ",
+    "location_en": "Houston, Texas, United States",
+    "description_pt": "Responsável por projetar, desenvolver e gerenciar pipelines de dados e infraestrutura para apoiar a equipe de desenvolvimento e pesquisa da ExxonMobil. Minhas principais responsabilidades envolvem arquitetura e implementação de processos robustos de ETL (Extrair, Transformar, Carregar) para ingerir, transformar e carregar dados de diversas fontes em ambientes de nuvem como Azure e Snowflake. Eu projeto e construo soluções escaláveis de gerenciamento de dados, envolvendo a criação e otimização de estruturas de dados como bancos de dados, data warehouses, data lakes, tabelas e views, garantindo acessibilidade, integridade e consultas de alto desempenho. Em relação ao Azure Data Factory, desenvolvo e mantenho pipelines para permitir a ingestão, transformação e entrega eficiente de dados. Minha função é fornecer à equipe de desenvolvimento e pesquisa acesso confiável e simplificado às ferramentas e dados necessários para apoiar suas atividades de forma eficaz. Para isso, colaboro com múltiplas equipes, refatoro e otimizo pipelines de dados existentes e integro soluções de dados internos com outros sistemas e plataformas em toda a empresa.",
+    "description_en": "Responsible for designing, developing and managing data pipelines and infrastructure to support ExxonMobil's development and research team. My primary responsibilities involve architecting and implementing robust ETL (Extract, Transform, Load) processes to ingest, transform, and load data from multiple sources into cloud environments like Azure and Snowflake.\n\nI design and build scalable data management solutions, involving the creation and optimization of data structures such as databases, data warehouses, data lakes, tables and views, ensuring accessibility, integrity and high-performance queries. Regarding Azure Data Factory, I develop and maintain pipelines to enable efficient data ingestion, transformation, and delivery.\n\nMy role is to provide the development and research team with reliable, streamlined access to the tools and data needed to support their activities effectively. To do this, I collaborate with multiple teams, refactor and optimize existing data pipelines, and integrate internal data solutions with other systems and platforms across the enterprise.",
+    "technologies": [
+      "Azure",
+      "Snowflake",
+      "Python",
+      "Angular",
+      "GitHub Actions"
+    ],
+    "includeInSimplified": true
+  },
+  {
+    "id": "exp-exxonmobil-engenheiro-de-software-1",
+    "company": "ExxonMobil",
+    "role_pt": "Engenheiro de Software",
+    "role_en": "Software Engineer",
+    "startDate": "2023-03",
+    "endDate": "2023-09",
+    "current": false,
+    "location_pt": "Houston, Texas, Estados Unidos ",
+    "location_en": "Houston, Texas, United States",
+    "description_pt": "Responsável por contribuir no desenvolvimento de soluções internas de software para auxiliar a equipe de pesquisa da ExxonMobil. Minhas principais responsabilidades incluem desenvolvimento de software, manutenção de código e migração de aplicações para ambientes Cloud. Meu trabalho é garantir que a equipe de pesquisa e experimentação tenha acesso a ferramentas e tecnologias para realizar suas atividades com eficiência. Para isso, desenvolvo aplicações internas que atendam às necessidades específicas da equipe, ao mesmo tempo que colaboro com outras áreas da empresa para garantir a integração com os sistemas e plataformas existentes. Além disso, participo ativamente do ciclo de vida de desenvolvimento de software, desde design de requisitos até a codificação, teste e deploy. ",
+    "description_en": "Responsible for contributing to the development of internal software solutions to assist the ExxonMobil research team. My main responsibilities include software development, code maintenance, and migrating applications to Cloud environments. My job is to ensure that the research and experimentation team has access to tools and technologies to carry out their activities efficiently.\n\nTo this end, I develop internal applications that meet the specific needs of the team, while collaborating with other areas of the company to ensure integration with existing systems and platforms. In addition, I actively participate in the software development lifecycle, from requirements design to coding, testing, and deployment. ",
+    "technologies": [
+      "Python",
+      "Angular",
+      "Azure"
+    ],
+    "includeInSimplified": true
+  },
+  {
+    "id": "exp-alm-tecnologia-e-inovacao-cto-2",
+    "company": "ALM Tecnologia e Inovação",
+    "role_pt": "CTO",
+    "role_en": "CTO",
+    "startDate": "2020-02",
+    "endDate": "2023-04",
+    "current": false,
+    "location_pt": "Lages, Santa Catarina",
+    "location_en": "Lages, Santa Catarina",
+    "description_pt": "Responsável pelo gerenciamento e desenvolvimento do principal projeto da empresa, desempenhando o planejamento da arquitetura do projeto e viabilização de novas funcionalidades. Função de líder técnico com a equipe de desenvolvimento, aplicando metodologias ágeis e acompanhamento do progresso do time. Responsável também pela refatoração do serviço quando necessário e atualização de frameworks utilizados para os mais atuais do mercado. Participação de contratações para integrar o time de desenvolvimento e terceirização de equipes. Estruturação da infraestrutura do sistema e planejamento de escalonamento.",
+    "description_en": "Responsável pelo gerenciamento e desenvolvimento do principal projeto da empresa, desempenhando o planejamento da arquitetura do projeto e viabilização de novas funcionalidades. Função de líder técnico com a equipe de desenvolvimento, aplicando metodologias ágeis e acompanhamento do progresso do time. Responsável também pela refatoração do serviço quando necessário e atualização de frameworks utilizados para os mais atuais do mercado. Participação de contratações para integrar o time de desenvolvimento e terceirização de equipes. Estruturação da infraestrutura do sistema e planejamento de escalonamento.",
+    "technologies": [
+      "Ionic Framework",
+      "Angular",
+      "PHP",
+      "Python",
+      "Capacitor",
+      "Android"
+    ],
+    "includeInSimplified": true
+  },
+  {
+    "id": "exp-morse-tecnologia-desenvolvedor-full-stac-4",
+    "company": "Morse Tecnologia",
+    "role_pt": "Desenvolvedor Full Stack",
+    "role_en": "Full Stack developer",
+    "startDate": "2022-02",
+    "endDate": "2022-08",
+    "current": false,
+    "location_pt": "Palhoça, Santa Catarina, Brazil ",
+    "location_en": "Palhoça, Santa Catarina, Brazil",
+    "description_pt": "Responsável pela refatoração do projeto Gaya Foods, otimizando o processo de pagamento e atualizando bibliotecas e funções desatualizadas. Atuante também em UI/UX de alguns projetos, removendo redundâncias e facilitando a utilização dos projetos pelos usuários. Responsável pelo desenvolvimento de APIs e pontes entre aplicativos e serviços. ",
+    "description_en": "Responsible for refactoring the Gaya Foods project, optimizing the payment process and updating outdated libraries and functions. Also active in UI/UX of some projects, removing redundancies and facilitating the use of projects by users. Responsible for developing APIs and bridges between applications and services.",
+    "technologies": [
+      "Angular",
+      "Ionic Framework",
+      "Capacitor",
+      "Firebase",
+      "Android"
+    ],
+    "includeInSimplified": true
+  },
+  {
+    "id": "exp-sf-geo-engenharia-ltda-desenvolvedor-ful-5",
+    "company": "SF GEO ENGENHARIA LTDA",
+    "role_pt": "Desenvolvedor Full Stack",
+    "role_en": "full stack developer",
+    "startDate": "2019-07",
+    "endDate": "2020-02",
+    "current": false,
+    "location_pt": "Lages, Santa Catarina, Brasil ",
+    "location_en": "SANTA CATARINA, BRAZIL",
+    "description_pt": "Responsável pelo desenvolvimento inicial do aplicativo e plataforma web SFMapp. Desenvolvimento de sistemas complexos envolvendo leitura e sincronização de dados georreferenciados provenientes de softwares de engenharia (SIG). Responsável por refatoração e atualizações dos sistemas.",
+    "description_en": "Responsible for the initial development of the SFMapp application and web platform. Development of complex systems involving reading and synchronization of georeferenced data from engineering software (GIS). Responsible for refactoring and updating systems.",
+    "technologies": [
+      "GIS",
+      "Android",
+      "Ionic Framework",
+      "Angular",
+      "Capacitor",
+      "Python",
+      "PHP"
+    ],
+    "includeInSimplified": true
+  },
+  {
+    "id": "exp-sf-geo-engenharia-ltda-estagiario-de-eng-6",
+    "company": "SF GEO ENGENHARIA LTDA",
+    "role_pt": "Estagiário de Engenharia Ambiental e Sanitária",
+    "role_en": "Estagiário de Engenharia Ambiental e Sanitária",
+    "startDate": "2019-01",
+    "endDate": "2019-06",
+    "current": false,
+    "location_pt": "Lages, Santa Catarina, Brasil ",
+    "location_en": "SANTA CATARINA, BRAZIL",
+    "description_pt": "Estágio obrigatório do curso de engenharia ambiental e sanitária. Primeiros passos para idealização dos sistemas e contato com tecnologias de mapeamento do mercado (OpenLayers, Leaflet, Google Maps). Responsável pelo desenvolvimento de uma plataforma web e aplicativo móvel para otimização da visualização de dados georreferenciados.",
+    "description_en": "Mandatory internship of the environmental and sanitary engineering course. First steps to idealize the systems and contact with market mapping technologies (OpenLayers, Leaflet, Google Maps). Responsible for the development of a web platform and mobile application to optimize the visualization of georeferenced data.",
+    "technologies": [
+      "OpenLayers",
+      "Leaflet",
+      "Google Maps",
+      "Android",
+      "Ionic Framework",
+      "Angular",
+      "PHP",
+      "Python"
+    ],
+    "includeInSimplified": false
+  },
+  {
+    "id": "exp-crieatividade-org-desenvolvedor-full-sta-7",
+    "company": "CrieAtividade.org",
+    "role_pt": "Desenvolvedor full stack",
+    "role_en": "Desenvolvedor full stack",
+    "startDate": "2018-01",
+    "endDate": "2019-09",
+    "current": false,
+    "location_pt": "Florianópolis, Santa Catarina, Brasil ",
+    "location_en": "Florianópolis, Santa Catarina, Brazil.",
+    "description_pt": "Principal desenvolvedor da plataforma CrieAtividade.org. Responsável por desenvolvimento de API, arquitetura do banco de dados e a comunicação com o sistema principal.",
+    "description_en": "Main developer of the platform CriarAtividade.org. Responsible for API development, database architecture and communication with the core system.",
+    "technologies": [
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "CSS"
+    ],
+    "includeInSimplified": false
+  },
+  {
+    "id": "exp-universidade-do-estado-de-santa-catarina-8",
+    "company": "Universidade do Estado de Santa Catarina",
+    "role_pt": "Bolsista no lab. de georreferenciamento",
+    "role_en": "Bolsista no lab. de georreferenciamento",
+    "startDate": "2017-11",
+    "endDate": "2018-12",
+    "current": false,
+    "location_pt": "",
+    "location_en": "",
+    "description_pt": "Lages e Região, Brasil Universidade do Estado de Santa Catarina",
+    "description_en": "Lages e Região, Brasil Universidade do Estado de Santa Catarina",
+    "technologies": [],
+    "includeInSimplified": false
+  },
+  {
+    "id": "exp-universidade-do-estado-de-santa-catarina-9",
+    "company": "Universidade do Estado de Santa Catarina",
+    "role_pt": "Bolsista no lab. de Meteorologia e Climatologia",
+    "role_en": "Bolsista no lab. de Meteorologia e Climatologia",
+    "startDate": "2016-01",
+    "endDate": "2016-12",
+    "current": false,
+    "location_pt": "",
+    "location_en": "",
+    "description_pt": "Lages e Região, Brasil",
+    "description_en": "Lages e Região, Brasil",
+    "technologies": [],
+    "includeInSimplified": false
+  }
+]

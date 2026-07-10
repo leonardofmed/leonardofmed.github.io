@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lang-spanish-0",
+    "name_pt": "Espanhol",
+    "name_en": "Spanish",
+    "level": "advanced"
+  },
+  {
+    "id": "lang-english-1",
+    "name_pt": "Inglês",
+    "name_en": "English",
+    "level": "advanced"
+  },
+  {
+    "id": "lang-portuguese-2",
+    "name_pt": "Português",
+    "name_en": "Portuguese",
+    "level": "native"
+  }
+]

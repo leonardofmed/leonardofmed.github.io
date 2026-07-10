@@ -1,0 +1,1 @@
+var t={reading:{pt:"Lendo atualmente",en:"Currently reading"},read:{pt:"Lido",en:"Read"}},o=[{value:"reading",label:"Reading (Lendo atualmente)"},{value:"read",label:"Read (Lido)"}];function n(e){return e==="read"?"read":"reading"}function a(e){return t[n(e)]}export{o as a,n as b,a as c};

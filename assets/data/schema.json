@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "i18nText": {
+      "type": "object",
+      "required": ["title_pt", "title_en"],
+      "properties": {
+        "title_pt": { "type": "string", "minLength": 1 },
+        "title_en": { "type": "string", "minLength": 1 },
+        "description_pt": { "type": "string" },
+        "description_en": { "type": "string" }
+      }
+    },
+    "skillLevel": {
+      "type": "string",
+      "enum": ["expert", "advanced", "intermediate"]
+    }
+  },
+  "files": {
+    "person.json": {
+      "type": "object",
+      "required": ["name", "title_pt", "title_en", "email", "socialLinks"],
+      "properties": {
+        "name": { "type": "string" },
+        "title_pt": { "type": "string" },
+        "title_en": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "socialLinks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["platform", "url"],
+            "properties": {
+              "platform": { "type": "string" },
+              "url": { "type": "string", "format": "uri" },
+              "icon": { "type": "string" }
+            }
+          }
+        },
+        "careerStartYear": { "type": "integer" }
+      }
+    },
+    "experiences.json": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "company", "role_pt", "role_en", "startDate", "technologies"],
+        "properties": {
+          "id": { "type": "string" },
+          "company": { "type": "string" },
+          "role_pt": { "type": "string" },
+          "role_en": { "type": "string" },
+          "startDate": { "type": "string" },
+          "endDate": { "type": ["string", "null"] },
+          "current": { "type": "boolean" },
+          "includeInSimplified": { "type": "boolean" },
+          "technologies": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "projects.json": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title_pt", "title_en", "technologies"],
+        "properties": {
+          "id": { "type": "string" },
+          "title_pt": { "type": "string" },
+          "title_en": { "type": "string" },
+          "technologies": { "type": "array", "items": { "type": "string" } },
+          "featured": { "type": "boolean" }
+        }
+      }
+    },
+    "skills.json": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "level", "category"],
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "level": { "$ref": "#/definitions/skillLevel" },
+          "category": { "type": "string" }
+        }
+      }
+    },
+    "education.json": { "type": "array" },
+    "certifications.json": { "type": "array" },
+    "languages.json": { "type": "array" },
+    "awards.json": { "type": "array" },
+    "articles.json": { "type": "array" },
+    "books.json": { "type": "array" },
+    "talks.json": { "type": "array" }
+  }
+}

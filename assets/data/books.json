@@ -1,0 +1,18 @@
+[
+  {
+    "id": "book-1",
+    "title": "Sociedade do Espetáculo",
+    "author": "Guy Debord",
+    "status": "read",
+    "status_pt": "Lido",
+    "status_en": "Read"
+  },
+  {
+    "id": "book-3",
+    "title": "O Mito de Sísifo",
+    "author": "Albert Camus",
+    "status": "read",
+    "status_pt": "Lido",
+    "status_en": "Read"
+  }
+]

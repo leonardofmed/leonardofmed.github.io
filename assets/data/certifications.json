@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cert-aws-load-balancer-0",
+    "name": "AWS Load Balancer",
+    "issuer": "AWS"
+  },
+  {
+    "id": "cert-deploying-app-using-docker-and-ecs-1",
+    "name": "Deploying App using Docker and ECS",
+    "issuer": "LinkedIn Learning"
+  },
+  {
+    "id": "cert-azure-data-factory-2",
+    "name": "Azure Data Factory",
+    "issuer": "Microsoft Azure"
+  },
+  {
+    "id": "cert-databases-and-files-systems-in-aws-3",
+    "name": "Databases and Files Systems in AWS",
+    "issuer": "LinkedIn Learning"
+  },
+  {
+    "id": "cert-aws-ci-cd-pipeline-4",
+    "name": "AWS CI CD Pipeline",
+    "issuer": "AWS"
+  }
+]

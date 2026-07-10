@@ -1,0 +1,181 @@
+[
+  {
+    "id": "proj-ballast",
+    "title_pt": "Ballast — Plataforma de planejamento financeiro pessoal e familiar",
+    "title_en": "Ballast — Personal and family financial planning platform",
+    "description_pt": "Aplicação full-stack de gestão financeira com visão dupla para cliente e planejador, sincronização bancária via Open Finance, metas, investimentos, patrimônio e orçamento. Multi-tenant por projeto, com autenticação e billing, jobs assíncronos e importação manual de extratos.",
+    "description_en": "Full-stack financial management application with dual view for client and planner, bank synchronization via Open Finance, goals, investments, equity and budget. Multi-tenant per project, with authentication and billing, asynchronous jobs and manual import of statements.",
+    "technologies": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Prisma",
+      "PostgreSQL",
+      "Clerk",
+      "Inngest"
+    ],
+    "github": null,
+    "demo": null,
+    "featured": true
+  },
+  {
+    "id": "proj-conecta-plus",
+    "title_pt": "Conecta+ — Plataforma SaaS de gestão e analytics de WhatsApp",
+    "title_en": "Conecta+ — WhatsApp management and analytics SaaS platform",
+    "description_pt": "Plataforma SaaS de comunicação, engajamento e analytics vinculado ao WhatsApp. Frontend com dashboards, campanhas e multi-tenant; BFF com autenticação e integração a APIs de mensageria; pipeline event-driven de ingestão de mensagens (webhooks/filas) com persistência de texto e mídia; deploy containerizado na AWS com CI/CD.",
+    "description_en": "SaaS platform for communication, engagement and analytics linked to WhatsApp. Frontend with dashboards, campaigns and multi-tenant; BFF with authentication and integration with messaging APIs; event-driven message ingestion pipeline (webhooks/queues) with persistence of text and media; deploy containerized in AWS with CI/CD.",
+    "technologies": [
+      "Angular",
+      "FastAPI",
+      "Python",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "RabbitMQ",
+      "CI/CD"
+    ],
+    "github": null,
+    "demo": null,
+    "featured": true
+  },
+  {
+    "id": "proj-text-to-speech-gpt3",
+    "title_pt": "Text-to-Speech to GPT-3 to Speech-to-Text",
+    "title_en": "Text-to-Speech to GPT-3 to Speech-to-Text",
+    "description_pt": "Projeto Python que usa a biblioteca DeepSpeech da Mozilla para transcrição de fala em texto a partir do microfone. O texto transcrito alimenta um chatbot OpenAI GPT-3, cuja resposta é convertida em áudio pela API gTTS do Google.",
+    "description_en": "Python project that uses Mozilla's DeepSpeech library for speech-to-text transcription from the microphone. The transcribed text feeds an OpenAI GPT-3 chatbot, and the response is converted to audio using Google's gTTS API.",
+    "technologies": [
+      "Python",
+      "DeepSpeech",
+      "OpenAI GPT-3",
+      "gTTS"
+    ],
+    "github": "https://github.com/leonardofmed/stt-chat-tts",
+    "demo": null,
+    "featured": true
+  },
+  {
+    "id": "proj-sfmapp",
+    "title_pt": "SFMapp - App de gestão de mapas e arquivos georreferenciados",
+    "title_en": "SFMapp - Georeferenced maps and files management app",
+    "description_pt": "SaaS que possibilita a interação de dados georreferenciados de forma dinâmica e intuitiva, com suporte a diferentes formatos e armazenamento em nuvem. Oferece coleta, interação, compartilhamento e sincronização de informações de campo, controle de equipes, mapas offline, ordens de serviço, checklists georreferenciadas, alertas, relatórios e importação/exportação em diversos formatos.",
+    "description_en": "SaaS platform for dynamic, intuitive interaction with georeferenced data, supporting multiple formats and cloud storage. Features field data collection, sharing and sync, team management, offline maps, work orders, georeferenced checklists, alerts, reports, and multi-format import/export.",
+    "technologies": [
+      "JavaScript",
+      "PHP",
+      "Ionic",
+      "Angular",
+      "MySQL",
+      "OpenLayers"
+    ],
+    "github": null,
+    "demo": "https://sulflorestas.com.br/sfmapp/",
+    "featured": true
+  },
+  {
+    "id": "proj-gaya-food",
+    "title_pt": "Gaya Food Comida Saudável",
+    "title_en": "Gaya Food Healthy Delivery",
+    "description_pt": "Serviço de delivery com foco em comidas saudáveis. Desenvolvimento do front-end e funcionalidades do aplicativo, junto com o painel de configuração do lojista acessado via web.",
+    "description_en": "Healthy food delivery service. Built the app front-end and core features, plus the merchant configuration panel accessed through a web dashboard.",
+    "technologies": [
+      "JavaScript",
+      "PHP",
+      "Firebase",
+      "Ionic Framework",
+      "Capacitor",
+      "Android"
+    ],
+    "github": null,
+    "demo": "https://kitchencentral.com.br/blog/gaya-food/",
+    "featured": true
+  },
+  {
+    "id": "proj-face-recognition",
+    "title_pt": "Detecção e Reconhecimento Facial em Fotos ou Vídeos",
+    "title_en": "Face Detection and Recognition in Photos or Videos",
+    "description_pt": "Projeto desenvolvido em Python com OpenCV para treinar um modelo com pessoas conhecidas e reconhecer faces em tempo real em monitoramento ou em arquivos de vídeo.",
+    "description_en": "Python and OpenCV project to train a model on known people and recognize faces in real time from surveillance feeds or video files.",
+    "technologies": [
+      "Python",
+      "OpenCV"
+    ],
+    "github": null,
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": "proj-defesa-civil-lages",
+    "title_pt": "Software de Registro e Monitoramento de Ocorrências para Defesa Civil de Lages",
+    "title_en": "Incident Registration and Monitoring Software for Lages Civil Defense",
+    "description_pt": "Software desenvolvido entre 2018 e 2020 para registro e monitoramento de ocorrências da Defesa Civil de Lages - SC, permitindo controle mais rápido e eficaz, com informações resumidas e padronizadas em dashboard interativo.",
+    "description_en": "Software developed between 2018 and 2020 for the Lages Civil Defense (SC) to register and monitor incidents, enabling faster control and standardized insights through an interactive dashboard.",
+    "technologies": [
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ],
+    "github": null,
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": "proj-crieatividade",
+    "title_pt": "CrieAtividade - Plataforma de compartilhamento de ideias para professores e alunos",
+    "title_en": "CrieAtividade - Idea sharing platform for teachers and students",
+    "description_pt": "Plataforma construída com HTML, CSS e JavaScript no front-end, backend em PHP puro e banco de dados MySQL para compartilhamento de ideias entre professores e alunos.",
+    "description_en": "Platform built with HTML, CSS and JavaScript on the front-end, plain PHP backend and MySQL database for sharing ideas between teachers and students.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL"
+    ],
+    "github": null,
+    "demo": "https://crieatividade.org/",
+    "featured": true
+  },
+  {
+    "id": "proj-3d-photogrammetry",
+    "title_pt": "Ferramenta de visualização de modelos tridimensionais a partir de fotogrametria aérea",
+    "title_en": "3D model visualization tool from aerial photogrammetry",
+    "description_pt": "Trabalho de Conclusão de Curso em Engenharia Ambiental e Sanitária (UDESC). Desenvolveu metodologia para gerar modelos tridimensionais a partir de MDS e ortofotos de levantamento aerofotogramétrico com quadricóptero, disponibilizando o modelo ao usuário final.",
+    "description_en": "Undergraduate thesis in Environmental and Sanitary Engineering (UDESC). Developed a methodology to generate 3D models from DSM and orthophoto data collected via quadcopter photogrammetry, making the model available to end users.",
+    "technologies": [
+      "Python"
+    ],
+    "github": null,
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": "proj-gutter-sizing",
+    "title_pt": "Software para Dimensionamento Automático de Calhas Residenciais",
+    "title_en": "Automatic residential gutter sizing software",
+    "description_pt": "Projeto da disciplina de Modelagem e Simulação Ambiental (UDESC), desenvolvido em C++. Dimensiona automaticamente sistemas de calhas considerando telhado, localização e precipitação histórica, gerando cálculos conforme legislação vigente.",
+    "description_en": "Project for the Environmental Modeling and Simulation course (UDESC), built in C++. Automatically sizes gutter systems based on roof dimensions, location and historical rainfall data, following applicable building standards.",
+    "technologies": [
+      "C++"
+    ],
+    "github": null,
+    "demo": null,
+    "featured": false
+  },
+  {
+    "id": "proj-ionic-printer",
+    "title_pt": "Ferramenta de conexão para impressoras portáteis em um aplicativo Ionic",
+    "title_en": "Portable printer connection tool for an Ionic app",
+    "description_pt": "Projeto para possibilitar impressão de dados de um aplicativo existente via impressoras portáteis, com conexão Bluetooth e bibliotecas open source dos frameworks Ionic e Cordova.",
+    "description_en": "Project enabling printing from an existing app through portable printers, using Bluetooth and open-source libraries from the Ionic and Cordova frameworks.",
+    "technologies": [
+      "JavaScript",
+      "Ionic",
+      "Cordova",
+      "Bluetooth"
+    ],
+    "github": null,
+    "demo": null,
+    "featured": false
+  }
+]
