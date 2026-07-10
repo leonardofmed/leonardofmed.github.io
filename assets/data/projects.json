@@ -63,7 +63,7 @@
     "technologies": [
       "JavaScript",
       "PHP",
-      "Ionic",
+      "Ionic Framework",
       "Angular",
       "MySQL",
       "OpenLayers"
@@ -170,7 +170,7 @@
     "description_en": "Project enabling printing from an existing app through portable printers, using Bluetooth and open-source libraries from the Ionic and Cordova frameworks.",
     "technologies": [
       "JavaScript",
-      "Ionic",
+      "Ionic Framework",
       "Cordova",
       "Bluetooth"
     ],

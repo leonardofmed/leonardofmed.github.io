@@ -204,12 +204,6 @@
     "category": "other"
   },
   {
-    "id": "skill-ionic",
-    "name": "Ionic",
-    "level": "intermediate",
-    "category": "mobile"
-  },
-  {
     "id": "skill-leaflet",
     "name": "Leaflet",
     "level": "intermediate",
@@ -268,5 +262,11 @@
     "name": "Inngest",
     "level": "intermediate",
     "category": "backend"
+  },
+  {
+    "id": "skill-excel",
+    "name": "Excel",
+    "level": "intermediate",
+    "category": "other"
   }
 ]

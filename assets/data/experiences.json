@@ -132,8 +132,8 @@
   {
     "id": "exp-crieatividade-org-desenvolvedor-full-sta-7",
     "company": "CrieAtividade.org",
-    "role_pt": "Desenvolvedor full stack",
-    "role_en": "Desenvolvedor full stack",
+    "role_pt": "Desenvolvedor Full Stack",
+    "role_en": "Full Stack developer",
     "startDate": "2018-01",
     "endDate": "2019-09",
     "current": false,
@@ -161,7 +161,13 @@
     "location_en": "",
     "description_pt": "Lages e Região, Brasil Universidade do Estado de Santa Catarina",
     "description_en": "Lages e Região, Brasil Universidade do Estado de Santa Catarina",
-    "technologies": [],
+    "technologies": [
+      "Python",
+      "Angular",
+      "Ionic Framework",
+      "OpenCV",
+      "PostgreSQL"
+    ],
     "includeInSimplified": false
   },
   {
@@ -176,7 +182,11 @@
     "location_en": "",
     "description_pt": "Lages e Região, Brasil",
     "description_en": "Lages e Região, Brasil",
-    "technologies": [],
+    "technologies": [
+      "Python",
+      "Excel",
+      "MySQL"
+    ],
     "includeInSimplified": false
   }
 ]
