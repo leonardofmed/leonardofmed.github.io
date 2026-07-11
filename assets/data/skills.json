@@ -151,21 +151,15 @@
   },
   {
     "id": "skill-node-js",
-    "name": "Node,js",
+    "name": "Node.js",
     "level": "advanced",
     "category": "backend"
-  },
-  {
-    "id": "skill-nest",
-    "name": "Nest",
-    "level": "intermediate",
-    "category": "other"
   },
   {
     "id": "skill-nestjs",
     "name": "NestJS",
     "level": "intermediate",
-    "category": "other"
+    "category": "backend"
   },
   {
     "id": "skill-github-actions",
