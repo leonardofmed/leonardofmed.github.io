@@ -1,8 +1,8 @@
 [
   {
     "id": "proj-ballast",
-    "title_pt": "Ballast — Plataforma de planejamento financeiro pessoal e familiar",
-    "title_en": "Ballast — Personal and family financial planning platform",
+    "title_pt": "Ballast - Plataforma de planejamento financeiro pessoal e familiar",
+    "title_en": "Ballast - Personal and family financial planning platform",
     "description_pt": "Aplicação full-stack de gestão financeira com visão dupla para cliente e planejador, sincronização bancária via Open Finance, metas, investimentos, patrimônio e orçamento. Multi-tenant por projeto, com autenticação e billing, jobs assíncronos e importação manual de extratos.",
     "description_en": "Full-stack financial management application with dual view for client and planner, bank synchronization via Open Finance, goals, investments, equity and budget. Multi-tenant per project, with authentication and billing, asynchronous jobs and manual import of statements.",
     "technologies": [
@@ -20,8 +20,8 @@
   },
   {
     "id": "proj-conecta-plus",
-    "title_pt": "Conecta+ — Plataforma SaaS de gestão e analytics de WhatsApp",
-    "title_en": "Conecta+ — WhatsApp management and analytics SaaS platform",
+    "title_pt": "Conecta+ - Plataforma SaaS de gestão e analytics de WhatsApp",
+    "title_en": "Conecta+ - WhatsApp management and analytics SaaS platform",
     "description_pt": "Plataforma SaaS de comunicação, engajamento e analytics vinculado ao WhatsApp. Frontend com dashboards, campanhas e multi-tenant; BFF com autenticação e integração a APIs de mensageria; pipeline event-driven de ingestão de mensagens (webhooks/filas) com persistência de texto e mídia; deploy containerizado na AWS com CI/CD.",
     "description_en": "SaaS platform for communication, engagement and analytics linked to WhatsApp. Frontend with dashboards, campaigns and multi-tenant; BFF with authentication and integration with messaging APIs; event-driven message ingestion pipeline (webhooks/queues) with persistence of text and media; deploy containerized in AWS with CI/CD.",
     "technologies": [

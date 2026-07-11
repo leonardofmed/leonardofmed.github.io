@@ -1,27 +1,71 @@
 [
   {
-    "id": "cert-aws-load-balancer-0",
-    "name": "AWS Load Balancer",
-    "issuer": "AWS"
+    "id": "cert-deploying-app-using-docker-and-ecs",
+    "name": "Deploying App using Docker and ECS",
+    "issuer": "Great Learning",
+    "date": "2023-02-21",
+    "url": "assets/certificates/deploying-app-using-docker-and-ecs.pdf",
+    "credentialId": "UBGDAXOD"
   },
   {
-    "id": "cert-deploying-app-using-docker-and-ecs-1",
-    "name": "Deploying App using Docker and ECS",
-    "issuer": "LinkedIn Learning"
+    "id": "cert-maratona-cloud-upper",
+    "name": "Maratona Cloud Upper",
+    "issuer": "Maratona Cloud Upper",
+    "date": "2023-02-05",
+    "url": "assets/certificates/maratona-cloud-upper.pdf"
+  },
+  {
+    "id": "cert-aws-ci-cd-pipeline",
+    "name": "AWS CI CD Pipeline",
+    "issuer": "Great Learning",
+    "date": "2023-02-01",
+    "url": "assets/certificates/aws-ci-cd-pipeline.pdf",
+    "credentialId": "ZVONPXND"
+  },
+  {
+    "id": "cert-iam-cloud-security",
+    "name": "IAM Cloud Security",
+    "issuer": "Great Learning",
+    "date": "2023-01-27",
+    "url": "assets/certificates/iam-cloud-security.pdf",
+    "credentialId": "WSDCCZTG"
+  },
+  {
+    "id": "cert-cloud-networking-with-aws-vpc",
+    "name": "Cloud Networking With AWS VPC",
+    "issuer": "Great Learning",
+    "date": "2023-01-26",
+    "url": "assets/certificates/cloud-networking-with-aws-vpc.pdf",
+    "credentialId": "JZGUQOTM"
+  },
+  {
+    "id": "cert-aws-load-balancer",
+    "name": "AWS Load Balancer",
+    "issuer": "Great Learning",
+    "date": "2023-01-23",
+    "url": "assets/certificates/aws-load-balancer.pdf",
+    "credentialId": "UTDRHRXX"
+  },
+  {
+    "id": "cert-databases-and-files-systems-in-aws",
+    "name": "Databases and Files Systems in AWS",
+    "issuer": "Great Learning",
+    "date": "2023-01-22",
+    "url": "assets/certificates/databases-and-files-systems-in-aws.pdf",
+    "credentialId": "JDKKREDA"
+  },
+  {
+    "id": "cert-techtalks-data-science-and-analytics",
+    "name": "TECHtalks Data Science & Analytics",
+    "issuer": "Orion Parque Tecnológico",
+    "date": "2021-04",
+    "url": "assets/certificates/techtalks-data-science-and-analytics.jpg"
   },
   {
     "id": "cert-azure-data-factory-2",
     "name": "Azure Data Factory",
-    "issuer": "Microsoft Azure"
-  },
-  {
-    "id": "cert-databases-and-files-systems-in-aws-3",
-    "name": "Databases and Files Systems in AWS",
-    "issuer": "LinkedIn Learning"
-  },
-  {
-    "id": "cert-aws-ci-cd-pipeline-4",
-    "name": "AWS CI CD Pipeline",
-    "issuer": "AWS"
+    "issuer": "Microsoft Azure",
+    "date": "2024-03",
+    "credentialId": "c5c713b2ba72c9e38e2ddbd7dc46551c1b9a78b5fb1a9f1f7302a438de235bc5"
   }
 ]

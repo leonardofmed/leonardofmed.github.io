@@ -1,13 +1,13 @@
 {
   "name": "Leonardo Medeiros",
-  "title_pt": "Engenheiro de Dados",
-  "title_en": "Data Engineer",
+  "title_pt": "Desenvolvedor Full Stack | Engenheiro de Dados ",
+  "title_en": "Full Stack Developer | Data Engineer",
   "location_pt": "Santa Catarina, Brasil",
   "location_en": "Santa Catarina, Brasil",
   "email": "leonardo.fmed@hotmail.com",
   "photo": "assets/profile.jpg",
-  "summary_pt": "Engenheiro de Dados e Desenvolvedor Full Stack com mais de 8 anos de experiência em desenvolvimento de software, arquitetura de sistemas e soluções em nuvem. Atualmente atuo na ExxonMobil, projetando e desenvolvendo pipelines de dados, processos de ETL/ELT e arquiteturas de dados utilizando Azure, Azure Data Factory, Snowflake e Python. Possuo experiência em desenvolvimento de aplicações web e mobile, APIs, bancos de dados SQL e NoSQL, DevOps e arquitetura de software. Atuei como Tech Lead e sócio da ALM Tecnologia e Inovação, liderando equipes e a evolução de plataformas utilizadas por empresas do setor de engenharia. Perfil orientado à resolução de problemas, melhoria contínua, colaboração entre equipes e desenvolvimento de soluções escaláveis e de alto desempenho.\n",
-  "summary_en": "Data Engineer and Full Stack Developer with over 8 years of experience in software development, systems architecture and cloud solutions. I currently work at ExxonMobil, designing and developing data pipelines, ETL/ELT processes and data architectures using Azure, Azure Data Factory, Snowflake and Python.\n\nI have experience in web and mobile application development, APIs, SQL and NoSQL databases, DevOps and software architecture. I worked as a Tech Lead and partner at Alm Tecnologia e Inovação, leading teams and the evolution of platforms used by companies in the engineering sector. Profile oriented to problem solving, continuous improvement, collaboration between teams and development of scalable and high-performance solutions.",
+  "summary_pt": "Engenheiro de Dados e Desenvolvedor Full Stack com mais de 8 anos de experiência em desenvolvimento de software, arquitetura de sistemas e soluções em nuvem. Atualmente atuo na ExxonMobil, projetando e desenvolvendo pipelines de dados, processos de ETL/ELT e arquiteturas de dados utilizando Azure, Azure Data Factory, Snowflake e Python. Possuo experiência em desenvolvimento de aplicações web e mobile, APIs, bancos de dados SQL e NoSQL, DevOps e arquitetura de software. Atuei como Tech Lead e sócio da ALM Tecnologia e Inovação, liderando equipes e a evolução de plataformas utilizadas por empresas do setor de engenharia.",
+  "summary_en": "Data Engineer and Full Stack Developer with over 8 years of experience in software development, systems architecture and cloud solutions. I currently work at ExxonMobil, designing and developing data pipelines, ETL/ELT processes and data architectures using Azure, Azure Data Factory, Snowflake and Python.\n\nI have experience in web and mobile application development, APIs, SQL and NoSQL databases, DevOps and software architecture. I worked as a Tech Lead and partner at Alm Tecnologia e Inovação, leading teams and the evolution of platforms used by companies in the engineering sector.",
   "socialLinks": [
     {
       "platform": "LinkedIn",

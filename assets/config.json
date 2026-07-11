@@ -2,5 +2,6 @@
   "siteUrl": "https://leonardofmed.github.io",
   "analyticsUrl": "",
   "enableAdmin": false,
-  "showBooks": false
+  "showBooks": false,
+  "showPhoto": false
 }
