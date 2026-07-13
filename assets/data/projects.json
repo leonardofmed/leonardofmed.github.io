@@ -45,10 +45,7 @@
     "description_pt": "Projeto Python que usa a biblioteca DeepSpeech da Mozilla para transcrição de fala em texto a partir do microfone. O texto transcrito alimenta um chatbot OpenAI GPT-3, cuja resposta é convertida em áudio pela API gTTS do Google.",
     "description_en": "Python project that uses Mozilla's DeepSpeech library for speech-to-text transcription from the microphone. The transcribed text feeds an OpenAI GPT-3 chatbot, and the response is converted to audio using Google's gTTS API.",
     "technologies": [
-      "Python",
-      "DeepSpeech",
-      "OpenAI GPT-3",
-      "gTTS"
+      "Python"
     ],
     "github": "https://github.com/leonardofmed/stt-chat-tts",
     "demo": null,
@@ -170,9 +167,7 @@
     "description_en": "Project enabling printing from an existing app through portable printers, using Bluetooth and open-source libraries from the Ionic and Cordova frameworks.",
     "technologies": [
       "JavaScript",
-      "Ionic Framework",
-      "Cordova",
-      "Bluetooth"
+      "Ionic Framework"
     ],
     "github": null,
     "demo": null,

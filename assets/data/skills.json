@@ -203,55 +203,6 @@
     "includeInSimplified": true
   },
   {
-    "id": "skill-bluetooth",
-    "name": "Bluetooth",
-    "level": "intermediate",
-    "category": "mobile",
-    "includeInSimplified": false
-  },
-  {
-    "id": "skill-cordova",
-    "name": "Cordova",
-    "level": "intermediate",
-    "category": "mobile",
-    "includeInSimplified": false
-  },
-  {
-    "id": "skill-deepspeech",
-    "name": "DeepSpeech",
-    "level": "intermediate",
-    "category": "backend",
-    "includeInSimplified": false
-  },
-  {
-    "id": "skill-google-maps",
-    "name": "Google Maps",
-    "level": "intermediate",
-    "category": "other",
-    "includeInSimplified": false
-  },
-  {
-    "id": "skill-leaflet",
-    "name": "Leaflet",
-    "level": "intermediate",
-    "category": "other",
-    "includeInSimplified": false
-  },
-  {
-    "id": "skill-openai-gpt-3",
-    "name": "OpenAI GPT-3",
-    "level": "intermediate",
-    "category": "backend",
-    "includeInSimplified": false
-  },
-  {
-    "id": "skill-gtts",
-    "name": "gTTS",
-    "level": "intermediate",
-    "category": "backend",
-    "includeInSimplified": false
-  },
-  {
     "id": "skill-fastapi",
     "name": "FastAPI",
     "level": "expert",
@@ -298,13 +249,6 @@
     "name": "Inngest",
     "level": "intermediate",
     "category": "backend",
-    "includeInSimplified": false
-  },
-  {
-    "id": "skill-excel",
-    "name": "Excel",
-    "level": "intermediate",
-    "category": "other",
     "includeInSimplified": false
   }
 ]

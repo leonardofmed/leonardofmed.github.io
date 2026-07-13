@@ -119,8 +119,6 @@
     "description_en": "- Started ideation of georeferenced data visualization systems using OpenLayers, Leaflet and Google Maps\n- Built a web platform and mobile app to improve visualization of geospatial data",
     "technologies": [
       "OpenLayers",
-      "Leaflet",
-      "Google Maps",
       "Android",
       "Ionic Framework",
       "Angular",
@@ -184,7 +182,6 @@
     "description_en": "- Research fellow at the Meteorology and Climatology laboratory (Lages and region, Brazil)",
     "technologies": [
       "Python",
-      "Excel",
       "MySQL"
     ],
     "includeInSimplified": false
