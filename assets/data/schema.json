@@ -81,7 +81,8 @@
           "id": { "type": "string" },
           "name": { "type": "string" },
           "level": { "$ref": "#/definitions/skillLevel" },
-          "category": { "type": "string" }
+          "category": { "type": "string" },
+          "includeInSimplified": { "type": "boolean" }
         }
       }
     },

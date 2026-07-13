@@ -3,264 +3,308 @@
     "id": "skill-wordpress-3",
     "name": "WordPress",
     "level": "intermediate",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-html-4",
     "name": "HTML",
     "level": "advanced",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-css-5",
     "name": "CSS",
     "level": "advanced",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-javascript-6",
     "name": "JavaScript",
     "level": "advanced",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-typescript-7",
     "name": "TypeScript",
     "level": "advanced",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-angular-8",
     "name": "Angular",
     "level": "expert",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-php-9",
     "name": "PHP",
     "level": "expert",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-android-10",
     "name": "Android",
     "level": "advanced",
-    "category": "mobile"
+    "category": "mobile",
+    "includeInSimplified": true
   },
   {
     "id": "skill-ionic-framework-11",
     "name": "Ionic Framework",
     "level": "advanced",
-    "category": "mobile"
+    "category": "mobile",
+    "includeInSimplified": true
   },
   {
     "id": "skill-capacitor-13",
     "name": "Capacitor",
     "level": "advanced",
-    "category": "other"
+    "category": "mobile",
+    "includeInSimplified": true
   },
   {
     "id": "skill-mysql-14",
     "name": "MySQL",
     "level": "advanced",
-    "category": "database"
+    "category": "database",
+    "includeInSimplified": true
   },
   {
     "id": "skill-postgresql-15",
     "name": "PostgreSQL",
     "level": "advanced",
-    "category": "database"
+    "category": "database",
+    "includeInSimplified": true
   },
   {
     "id": "skill-firebase-16",
     "name": "Firebase",
     "level": "advanced",
-    "category": "database"
+    "category": "database",
+    "includeInSimplified": true
   },
   {
     "id": "skill-aws-17",
     "name": "AWS",
     "level": "expert",
-    "category": "devops"
+    "category": "cloud",
+    "includeInSimplified": true
   },
   {
     "id": "skill-unity-18",
     "name": "Unity",
     "level": "intermediate",
-    "category": "mobile"
+    "category": "mobile",
+    "includeInSimplified": false
   },
   {
     "id": "skill-c-19",
     "name": "C#",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-java-20",
     "name": "Java",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-python-21",
     "name": "Python",
     "level": "expert",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-c-22",
     "name": "C++",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-azure-23",
     "name": "Azure",
     "level": "expert",
-    "category": "devops"
+    "category": "cloud",
+    "includeInSimplified": true
   },
   {
     "id": "skill-snowflake-24",
     "name": "Snowflake",
     "level": "advanced",
-    "category": "database"
+    "category": "cloud",
+    "includeInSimplified": true
   },
   {
     "id": "skill-openlayers-26",
     "name": "OpenLayers",
     "level": "advanced",
-    "category": "other"
+    "category": "other",
+    "includeInSimplified": false
   },
   {
     "id": "skill-react",
     "name": "React",
     "level": "expert",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-gis",
     "name": "GIS",
     "level": "intermediate",
-    "category": "other"
+    "category": "other",
+    "includeInSimplified": false
   },
   {
     "id": "skill-opencv",
     "name": "OpenCV",
     "level": "intermediate",
-    "category": "other"
+    "category": "other",
+    "includeInSimplified": false
   },
   {
     "id": "skill-node-js",
     "name": "Node.js",
     "level": "advanced",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-nestjs",
     "name": "NestJS",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-github-actions",
     "name": "GitHub Actions",
     "level": "expert",
-    "category": "other"
+    "category": "devops",
+    "includeInSimplified": true
   },
   {
     "id": "skill-ci-cd",
     "name": "CI/CD",
     "level": "expert",
-    "category": "devops"
+    "category": "devops",
+    "includeInSimplified": true
   },
   {
     "id": "skill-bluetooth",
     "name": "Bluetooth",
     "level": "intermediate",
-    "category": "mobile"
+    "category": "mobile",
+    "includeInSimplified": false
   },
   {
     "id": "skill-cordova",
     "name": "Cordova",
     "level": "intermediate",
-    "category": "mobile"
+    "category": "mobile",
+    "includeInSimplified": false
   },
   {
     "id": "skill-deepspeech",
     "name": "DeepSpeech",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-google-maps",
     "name": "Google Maps",
     "level": "intermediate",
-    "category": "other"
+    "category": "other",
+    "includeInSimplified": false
   },
   {
     "id": "skill-leaflet",
     "name": "Leaflet",
     "level": "intermediate",
-    "category": "other"
+    "category": "other",
+    "includeInSimplified": false
   },
   {
     "id": "skill-openai-gpt-3",
     "name": "OpenAI GPT-3",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-gtts",
     "name": "gTTS",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-fastapi",
     "name": "FastAPI",
     "level": "expert",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-docker",
     "name": "Docker",
     "level": "advanced",
-    "category": "devops"
+    "category": "devops",
+    "includeInSimplified": true
   },
   {
     "id": "skill-rabbitmq",
     "name": "RabbitMQ",
     "level": "advanced",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-nextjs",
     "name": "Next.js",
     "level": "advanced",
-    "category": "frontend"
+    "category": "frontend",
+    "includeInSimplified": true
   },
   {
     "id": "skill-prisma",
     "name": "Prisma",
     "level": "advanced",
-    "category": "database"
+    "category": "database",
+    "includeInSimplified": true
   },
   {
     "id": "skill-clerk",
     "name": "Clerk",
     "level": "intermediate",
-    "category": "other"
+    "category": "other",
+    "includeInSimplified": false
   },
   {
     "id": "skill-inngest",
     "name": "Inngest",
     "level": "intermediate",
-    "category": "backend"
+    "category": "backend",
+    "includeInSimplified": false
   },
   {
     "id": "skill-excel",
     "name": "Excel",
     "level": "intermediate",
-    "category": "other"
+    "category": "other",
+    "includeInSimplified": false
   }
 ]
