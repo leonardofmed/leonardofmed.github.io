@@ -84,6 +84,13 @@
     "includeInSimplified": true
   },
   {
+    "id": "skill-sql-server",
+    "name": "SQL Server",
+    "level": "advanced",
+    "category": "database",
+    "includeInSimplified": true
+  },
+  {
     "id": "skill-firebase-16",
     "name": "Firebase",
     "level": "advanced",

@@ -9,11 +9,12 @@
     "current": true,
     "location_pt": "Houston, Texas, Estados Unidos ",
     "location_en": "Houston, Texas, United States",
-    "description_pt": "- Projetei e implementei pipelines no Azure Data Factory para ingestão, transformação e entrega de dados de múltiplas fontes empresariais em Azure e Snowflake\n- Modelei e otimizei estruturas de dados (warehouses, lakes, tabelas e views) para consultas de alto desempenho e datasets padronizados para pesquisa\n- Refatorei e otimizei pipelines existentes, elevando confiabilidade e integrando soluções internas com outros sistemas da empresa\n- Colaborei com múltiplas equipes para garantir acesso confiável e simplificado a dados e ferramentas críticas de P&D",
-    "description_en": "- Designed and implemented Azure Data Factory pipelines processing data from multiple enterprise sources into Azure and Snowflake\n- Modeled and optimized data structures (warehouses, lakes, tables and views) for high-performance queries and standardized research datasets\n- Refactored and optimized existing pipelines, improving reliability and integrating internal data solutions with systems across the enterprise\n- Collaborated with cross-functional teams to deliver reliable, streamlined access to data and tools for research and development",
+    "description_pt": "- Projetei e implementei pipelines no Azure Data Factory para ingestão, transformação e entrega de dados de múltiplas fontes empresariais em Azure, Snowflake e SQL Server\n- Modelei e otimizei estruturas de dados (warehouses, lakes, tabelas e views) para consultas de alto desempenho e datasets padronizados para pesquisa\n- Refatorei e otimizei pipelines existentes, elevando confiabilidade e integrando soluções internas com outros sistemas da empresa\n- Colaborei com múltiplas equipes para garantir acesso confiável e simplificado a dados e ferramentas críticas de P&D",
+    "description_en": "- Designed and implemented Azure Data Factory pipelines processing data from multiple enterprise sources into Azure, Snowflake and SQL Server\n- Modeled and optimized data structures (warehouses, lakes, tables and views) for high-performance queries and standardized research datasets\n- Refactored and optimized existing pipelines, improving reliability and integrating internal data solutions with systems across the enterprise\n- Collaborated with cross-functional teams to deliver reliable, streamlined access to data and tools for research and development",
     "technologies": [
       "Azure",
       "Snowflake",
+      "SQL Server",
       "Python",
       "Angular",
       "GitHub Actions"
@@ -30,12 +31,13 @@
     "current": false,
     "location_pt": "Houston, Texas, Estados Unidos ",
     "location_en": "Houston, Texas, United States",
-    "description_pt": "- Desenvolvi aplicações internas para a equipe de pesquisa, cobrindo requisitos, implementação, testes e deploy\n- Migrei aplicações legado para Azure, reduzindo complexidade de deploy e melhorando manutenibilidade\n- Integrei soluções com sistemas e plataformas existentes em colaboração com outras áreas da empresa",
-    "description_en": "- Built internal applications for the research team across requirements, implementation, testing and deployment\n- Migrated legacy applications to Azure, reducing deployment complexity and improving maintainability\n- Integrated solutions with existing systems and platforms in collaboration with other business areas",
+    "description_pt": "- Desenvolvi aplicações internas para a equipe de pesquisa, cobrindo requisitos, implementação, testes e deploy\n- Migrei aplicações legado para Azure, reduzindo complexidade de deploy e melhorando manutenibilidade\n- Integrei soluções com sistemas e plataformas existentes, incluindo fontes e persistência em SQL Server, em colaboração com outras áreas da empresa",
+    "description_en": "- Built internal applications for the research team across requirements, implementation, testing and deployment\n- Migrated legacy applications to Azure, reducing deployment complexity and improving maintainability\n- Integrated solutions with existing systems and platforms, including SQL Server data sources and persistence, in collaboration with other business areas",
     "technologies": [
       "Python",
       "Angular",
-      "Azure"
+      "Azure",
+      "SQL Server"
     ],
     "includeInSimplified": true
   },
