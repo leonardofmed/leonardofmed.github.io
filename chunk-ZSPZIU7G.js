@@ -1,0 +1,1 @@
+import{a as o}from"./chunk-45VZKAOO.js";import{Ha as t,T as n}from"./chunk-3UAG3ARE.js";var a=class i{i18n=n(o);transform(r,e){return!r||typeof r!="object"?"":this.i18n.t(r,e)}static \u0275fac=function(e){return new(e||i)};static \u0275pipe=t({name:"localized",type:i,pure:!1})};export{a};
